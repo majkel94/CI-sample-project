@@ -1,3 +1,5 @@
-print 'Hello, World'
+def inc(arg):
+    return arg + 1
 
-print "Again..."
+
+print inc(3)
