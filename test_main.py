@@ -6,4 +6,4 @@ def test_sample():
 # def test_fail():
 #     assert inc(2) == 6
 def test_true():
-    essert True
+    assert True
