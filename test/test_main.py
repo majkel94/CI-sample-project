@@ -1,7 +1,7 @@
-from main import inc
+from .. import main
 
 def test_sample():
-    assert inc(3) == 4
+    assert main.inc(3) == 4
 
 def test_fail():
-    assert inc(2) == 6
+    assert main.inc(2) == 6
