@@ -6,11 +6,13 @@
 Welcome to CI-sample-project's documentation!
 =============================================
 
+Test documentation to sample CI project using sphinx.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
+   modules
 
 Indices and tables
 ==================
