@@ -25,6 +25,6 @@ def iDontCare(nick, *, x=1):
     :param nick: Nickname to greet
     :param x: Number of greetings (default=1)
     :return: Greeting text
-    :type: string
+    :rtype: string
     """
     return f"Hej {nick}:* "*x
