@@ -29,4 +29,5 @@ def iDontCare(nick, *, x=1):
     """
     return f"Hej {nick}:* "*x
 
-
+def new_cool_func():
+    return 'Stickler'
