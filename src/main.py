@@ -12,7 +12,7 @@ def inc(arg):
     :return: arg + 1
     :rtype: integer
     """
-    return arg1 + 1, arg2
+    return arg+1
 
 
 def iDontCare(nick, *, x=1):
