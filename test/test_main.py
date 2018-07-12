@@ -13,4 +13,4 @@ from src import main
 #     assert main.new_cool_func() == 'Stickler'
 
 def test_positive():
-    assert True
+    assert False
