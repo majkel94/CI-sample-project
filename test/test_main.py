@@ -11,3 +11,6 @@ from src import main
 #
 # def test_new_cool_func_returns_stickler():
 #     assert main.new_cool_func() == 'Stickler'
+
+def test_positive():
+    assert True
